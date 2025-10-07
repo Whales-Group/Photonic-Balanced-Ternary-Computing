@@ -1,0 +1,24 @@
+# Photonic device parameters for simulator
+
+# Laser settings
+laser_power_mw: 10.0
+local_oscillator_power_mw: 2.0
+
+# Modulator settings
+modulator_type: "MZI"
+modulator_energy_fj: 50.0
+
+# Detector settings
+detector_responsivity: 0.9
+
+# ADC settings
+adc_bits: 6
+adc_sample_rate_gsps: 10.0
+adc_energy_fj_per_sample: 200.0
+
+# Optical channel
+optical_loss_db: 3.0
+
+# Simulation parameters
+vector_length: 128
+monte_carlo_trials: 2000

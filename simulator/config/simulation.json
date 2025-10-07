@@ -1,0 +1,12 @@
+{
+ "vector_length": 128,
+ "trials": 2000,
+ "adc_bits": 6,
+ "adc_rate_gsps": 10.0,
+ "responsivity": 0.9,
+ "modes": [
+  "Binary",
+  "Ternary"
+ ],
+ "save_report": true
+}
