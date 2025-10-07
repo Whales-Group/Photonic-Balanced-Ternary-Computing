@@ -1,3 +1,5 @@
+### NOTE: LOTS OF WORK STILL ONGOING TO PERFECT THE SIMULATION
+
 ## 📘 **Photonic Dot-Product Simulator**
 
 *A Java-based simulation framework for evaluating photonic dot-product engines using phase-encoded coherent detection.*
